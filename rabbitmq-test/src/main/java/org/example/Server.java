@@ -26,14 +26,6 @@ import java.util.concurrent.TimeoutException;
 import java.lang.reflect.*;
 
 public class Server {
-//    public static final String CLIENT_ID = "IIRSKZKOT4MJ4MRG5UHIJ3EVDMPAY6IEEXNZK6Q=";
-//    public static final String CLIENT_SECRET = "FLJSMWYUXMDHCULPL6QKP3NGHLZCWJM3ZJATFN6BGNKTUM7NOQOA====";
-//
-//    public static final String ACCESS_TOKEN = "118pBbjeytI0rbhRauLDdw==";
-//    public static final String REFRESH_TOKEN = "629780f474c8e9cb9d383fcaea16cd36";
-//
-//    public static final String BASE_URL = "https://demo-c.dev.onshape.com";
-//    public static final String OAUTH_URL = "https://demo-c-oauth.dev.onshape.com/oauth/token";
 
     public static void main (String[] args ) throws IOException, TimeoutException, URISyntaxException, NoSuchAlgorithmException, KeyManagementException {
 
